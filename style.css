@@ -1,0 +1,22 @@
+.box{
+    background:pink;
+    padding: 10px;
+}
+
+.box2{
+    background:pink;
+    padding: 20px;
+    margin:10px;
+}
+
+.box3{
+    background:rgb(232, 239, 232);
+    padding: 20px;
+    margin:10px;    
+}
+
+.box4{
+    background:rgb(112, 188, 238);
+    padding: 20px;
+    margin:10px;    
+}
